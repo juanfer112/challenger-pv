@@ -11,8 +11,13 @@ This is a Game of Thrones inspired REST API game. You are responsible to create 
 ### Required endpoints
 
 You have to create endpoints (as many as you consider) to support the following functionality:
+```javascript
+const holaMundo=()=>" hola mundo"
 
-1. List all players.
+```
+
+
+- [x]  ñlñlñ
 2. Create player: adds a new player to data source.
 3. Get player by id: returns the player for the given id.
 4. Arm a player with an object in its bag.
